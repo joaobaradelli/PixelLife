@@ -13,6 +13,7 @@ Projeto desenvolvido em 2023, 2º Ano do curso de **Desenvolvimento de Sistemas*
 - **HTML**
 - **CSS**
 - **PHP**
+- **JavaScript**
 - **MySQL**
 - **XAMPP**
 
