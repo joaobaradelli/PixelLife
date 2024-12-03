@@ -48,4 +48,4 @@ http://localhost/pixellife
 
 ## ⚠️ Atenção
 
-Este é um projeto escolar, feito sem cunho de utlização no mundo real ou que possua pagamentos reais. Diversos aperfeiçoamentos e melhorias foram observadas com o tempo, e, conforme meu aprendizado, reconheço o wur poderia ter sido feito de forma diferente. Por exemplo, o perfil de artistas é pré-definida e individual, e hoje sei que um único arquivo é o necessário.
+Este é um projeto escolar, feito sem cunho de utlização no mundo real ou que possua pagamentos reais. Diversos aperfeiçoamentos e melhorias foram observadas com o tempo, e, conforme meu aprendizado, reconheço o que poderia ter sido feito de forma diferente. Por exemplo, o perfil de artistas é pré-definida e individual, e hoje sei que um único arquivo é o necessário.
